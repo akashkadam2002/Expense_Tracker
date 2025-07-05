@@ -62,7 +62,7 @@ const App = () => {
   return (
     <div className="min-h-screen bg-gradient-to-r from-purple-500 to-blue-500 p-6">
       <h1 className="text-4xl font-bold text-center text-white mb-8">
-        Expense Tracker by Tanvir
+        Expense Tracker by Akash
       </h1>
 
       <div className="max-w-3xl mx-auto bg-white rounded-lg shadow-lg p-6">
